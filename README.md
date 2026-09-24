@@ -1,16 +1,35 @@
-## Hi there 👋
+# Привет, я Денис 👋
 
-<!--
-**DLordxxx/DLordxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Project Manager / Community Manager (IT / GameDev)**
 
-Here are some ideas to get you started:
+6 лет управляю проектами и сообществами в IT и геймдеве. Умею выстраивать процессы с нуля, координировать кросс-функциональные команды и превращать хаос в результат.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Что я делаю
+
+- **Управляю проектами полного цикла** - от сбора требований до релиза и передачи в поддержку. Есть опыт работы с внешним заказчиком.
+- **Строю и развиваю комьюнити** - организую мероприятия, работаю с блогерами и стримерами, модерирую, собираю обратную связь.
+- **Координирую команды** - разработчиков, дизайнеров, аналитиков, тестировщиков. Ставлю задачи, снимаю блокеры, контролирую сроки.
+- **Анализирую и улучшаю** - работаю с продуктовыми метриками (retention, engagement rate), принимаю решения на основе данных.
+
+## 💼 Опыт
+
+- **Project Manager / Бизнес-аналитик** | Bylkovka (сентябрь 2024 - июнь 2025) - управлял IT-проектом полного цикла для вуза. Собрал требования, сформировал ТЗ, спроектировал архитектуру, координировал команду. Результат: автоматизация учёта, патент.
+- **Team Lead / Менеджер игрового проекта** | Mortiferum-Hotel (сентябрь 2023 - декабрь 2023) - управлял командой из 4 человек по Scrum. Вёл проект от концепции до релиза. Результат: релиз в срок, проект защищён.
+- **Community Manager / Event Manager** (самозанятость, январь 2020 - настоящее время) - организовал 100+ совместных эфиров, провёл 100+ переговоров с блогерами, модерировал сообщество.
+
+## 🛠️ Инструменты
+
+- **Управление проектами:** Scrum, Agile, Confluence, Google Sheets, MS Excel
+- **Комьюнити и контент:** Discord, Telegram, Twitch, YouTube, SMM, копирайтинг
+- **Технический бэкграунд:** 1С, SQL, API, HTML, CSS, JavaScript, JSON
+
+## 📌 Проекты
+
+- **Mortiferum-Hotel** - визуальная новелла на Ren'Py. Полный цикл: от концепции до релиза. Управлял командой из 4 человек. [Смотреть проект →](https://github.com/DLordxxx/Mortiferum-Hotel)
+- **Bylkovka** - система автоматизации учёта для вуза на 1С:Предприятие. Получен патент. [Смотреть проект →](https://github.com/DLordxxx/Bylkovka)
+- **Musical-Vibes** - MVP музыкального плеера. HTML, CSS, JavaScript. [Смотреть проект →](https://github.com/DLordxxx/Musical-Vibes)
+
+## 📫 Как со мной связаться
+
+- **Telegram:** [@denisJAPAN](https://t.me/denisJAPAN)
+- **LinkedIn:** [linkedin.com/in/denis-bylkov](https://www.linkedin.com/in/denis-bylkov-397554437/)
