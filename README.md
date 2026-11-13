@@ -27,7 +27,7 @@
 
 ## 📌 Мои проекты
 
-- **⭐ [n8n Automation Portfolio](https://github.com/DLordxxx/n8n-automation-portfolio)** - Коллекция R&D-проектов по автоматизации: радар RMT-трендов, мониторинг цен, фильтрация новостей через LLM. (Главный проект!)
+- **n8n Automation Portfolio** - Коллекция R&D-проектов по автоматизации: радар RMT-трендов, мониторинг цен, фильтрация новостей через LLM. [Смотреть проект →](https://github.com/DLordxxx/n8n-automation-portfolio)
 - **Mortiferum-Hotel** - визуальная новелла на Ren'Py. Полный цикл: от концепции до релиза. Управлял командой из 4 человек. [Смотреть проект →](https://github.com/DLordxxx/Mortiferum-Hotel)
 - **Bylkovka** - система автоматизации учёта для вуза на 1С:Предприятие. Получен патент. [Смотреть проект →](https://github.com/DLordxxx/Bylkovka)
 - **Musical-Vibes** - MVP музыкального плеера. HTML, CSS, JavaScript. [Смотреть проект →](https://github.com/DLordxxx/Musical-Vibes)
